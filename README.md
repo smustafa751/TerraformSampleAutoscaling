@@ -1,0 +1,2 @@
+# TerraformSampleAutoscaling
+Autoscaling example
